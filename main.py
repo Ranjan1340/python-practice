@@ -1,5 +1,6 @@
-def addNumber(a,b,e):
-    return a+b+e
+
+def addNumber(a,b,c):
+    return a+b+c
 
 def multiplication(a,b):
     return a*b
